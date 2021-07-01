@@ -21,10 +21,12 @@
     color: #eee;
 }
 
-/* Status text */
+/* Status cursor */
 .Contact .status {
     cursor: pointer;
 }
+
+/* Status text */
 
 .Contact .status .status-text {
     color: #999;
