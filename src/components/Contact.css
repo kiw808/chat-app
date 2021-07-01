@@ -22,6 +22,10 @@
 }
 
 /* Status text */
+.Contact .status {
+    cursor: pointer;
+}
+
 .Contact .status .status-text {
     color: #999;
     margin: 0;
